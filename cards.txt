@@ -1,0 +1,138 @@
+Barbarians attacked! Do you send military to help your people?
+0 20,1 -5
+2 15,1 -10
+Merchants from far away land came to pay you a visit. Do you accept?
+1 -10,2 5,3 20
+1 3,3 -5
+Your ally has started to join. Do you help him?
+0 -15,1 20
+2 -10,0 5
+A holiday is comming up. Do you organize a fest for your court?
+1 -30,3 10
+2 15,3 -10
+Do you send your men on a crusade?
+0 -20,1 30
+3 5,0 10,1 -5
+A plague has stricken neighbouries kingdoms. Do you want to close your boarders?
+0 -5,3 10,2 -20
+2 -5,3 -20,0 -10
+Winter has started. Do you want to retreat your military from the northen front?
+0 10,1 -15,2 -10
+0 -40
+A wizard claims to know the future. Do you believe him?
+1 -10,3 -30,2 20
+3 10,0 -1
+Peasants have revolted. Do you want to hear their demands?
+3 20,1 -40
+0 -15,2 -30
+A mill has burned down. Do you send military to help with the repairs?
+2 5,0 -5
+2 -10
+Your advisor critiques you. Do you behead him?
+0 -5,3 -10
+1 10
+The jester has made a great point during a war meeting. Do you promote him to general?
+3 -10,0 20
+0 -15
+One of your daughters wants to marry a poor prince. Do you allow her?
+3 20,1 -20
+3 -5
+A group of non-believers looks for exile in your country. Do you take them in?
+3 5,2 -10
+3 -30
+A local witch proposed to sell you something called 'Bite-coin'.Do you buy?
+1 -90,3 5
+3 -5
+Your equpment is outdated. Do you invest in new swords?
+0 20,1 -20,3 10
+0 -10
+A flood! Do you buy wheat from your neighbour to keep your people from starving?
+1 -20,2 30
+0 -10,2 -10
+You had a very succesful harvest? Do you want to sell the excess?
+1 30,2 -10
+2 30
+do you build a moat around your new castle?
+1 -10,0 5
+0 -15
+The beaver population is declining. Do you want to make them a protected species?
+3 5,2 -5
+2 5
+Your people threw a fest in your honor! Do you join them in the celebration?
+3 10,2 10
+0 10,1 10
+Neigbouring kingdom has declared war. Do you want to expand your military?
+0 30,0 -30
+3 5,0 -20
+New mineral was discovered. Do you want to start research its posiible uses?
+3 15,1 -5
+3 -10
+Enemy kingdom has attacked a village near your border. Do you attack back?
+0 -10,2 5
+1 -10
+You were given a wooden horse statue. Do you accept it?
+0 -20,
+1 -10
+People started worshipping you as their God. Do you stop the heretics?
+0 -15,3 10
+1 -5
+Your best advisor was kidnaped. Do you pay the ransom?
+1 -15
+0 -5,1 -5,2 -5,3 -5
+Do you want to cut down the forest for wood?
+1 10,3 5
+2 -15
+Do you want to buid a new garrison?
+0 10,1 -10
+0 -5
+A village was poisoned. Do you look for the cause?
+3 5,1 -10
+2 -8
+Your troop has suffered loses. Do you want to send help?
+1 -10,0 5
+0 -5
+A assassin has been captured. Do you want to torture him?
+0 -10,2 5
+3 -5
+There is a spy amoung your advisors. Do you investigate?
+3 5,1 -5
+0 -15
+You were challenged to a duel. Do you accept?
+0 -2,1 5
+3 5
+A man claims to be your long lost brother. Do you believe him?
+1 -10
+3 -5
+You suspect your food was poisoned. Do you make your guard try it?
+0 -1,2 -1
+2 -1,3 2
+You were robbed! Do you search for the thieves?
+0 -5
+1 -5
+Your wife wants to be more involved with the kingdom. Do you listen to her ideas?
+3 10,1 5
+3 -10,1 5
+You think your son throws too many fiests. Do you send him away to become a general?
+0 -10,3 -5
+1 -10,2 -5
+Enemy kingdom wants to end the war between you. Do you accept?
+1 10
+0 10
+Do you want to bould a new university?
+1 -10,3 16
+3 -5
+Your wife hasn't given you a heir. Do you find a reason to behead her?
+3 -5,1 10
+3 20,1 -10
+Travelling merchant seeks an audience. Do you see in?
+2 -3,1 -10,3 15
+2 5
+Do you invest in spice?
+1 -15,2 10
+1 -5
+Do you implement the three-field system?
+2 5,3 5
+2 -5
+Your distant relative just died. Do you send your troops to claim the inheritance?
+1 40,0 -20
+1 -1
