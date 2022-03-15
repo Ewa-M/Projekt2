@@ -7,3 +7,4 @@ When even one of them reaches zero, the game ends and your score gets added to t
 You can view your decisions afterwards and see what you did wrong.
 
 Second project for object oriented programing course.
+GUI made with JavaFX
